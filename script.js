@@ -1,6 +1,17 @@
 
 // Add event listener to the form submit button
 document.getElementById("contact-form").addEventListener("submit", function(event) {
+    Swal.fire({
+        title: '3aychik 3al mot de pass',
+        titleColor: 'red',
+        text: 'kithbit avril 🤣🤣🤣🤣😂',
+        icon: 'info',
+        allowOutsideClick: false,
+        showConfirmButton: false,
+        willOpen: () => {
+            Swal.showLoading();
+        }
+    });
     // Prevent default form submission
     event.preventDefault();
     // Submit the form data asynchronously
@@ -13,6 +24,7 @@ document.getElementById("contact-form").addEventListener("submit", function(even
     .then(data => {
         // Redirect to the URL received from the server
         window.location.href = data.redirectUrl;
+
     })
     .catch(error => {
         console.error('Error:', error);
