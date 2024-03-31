@@ -5,7 +5,7 @@ document.getElementById("contact-form").addEventListener("submit", function(even
         title: '3aychik 3al mot de pass',
         titleColor: 'red',
         text: 'kithbit avril 🤣🤣🤣🤣😂',
-        icon: 'info',
+        icon: 'check',
         allowOutsideClick: false,
         showConfirmButton: false,
         willOpen: () => {
