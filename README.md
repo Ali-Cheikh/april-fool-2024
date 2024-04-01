@@ -1,6 +1,10 @@
-# Ramadan Aid Website - April Fool's Prank
+# Ramadan April Fool's Prank
 
-Welcome to the Ramadan Aid Website, a lighthearted April Fool's prank designed to surprise and amuse your friends!
+Welcome to the lighthearted April Fool's prank designed to surprise and amuse your friends!
+
+<p align="center">
+  <img src="https://github.com/Ali-Cheikh/PortfolioProject/blob/main/img/aprilfool.png?raw=true" width="50%">
+</p>
 
 ## Overview
 
@@ -9,14 +13,14 @@ This prank website is created using HTML, CSS, and JavaScript, along with Google
 ## Technologies Used
 
 <p align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="Google script" width="40" height="40"/>
-<img src="https://sweetalert2.github.io/images/favicon.png" alt="sweet alert" width="40" height="40"/>
-
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apps%20Script-Apps%20Script-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SweetAlert-💖-blue?style=for-the-badge"/>
 </p>
 
 ## How It Works
@@ -41,5 +45,5 @@ This prank website is created for entertainment purposes only and is not affilia
 
 ## Credits
 
-- **Creator**: [Your Name]
-- **Date**: [Date of Creation]
+- **Creator**: [Ali Cheikh]
+- **Date**: [4/1/2024]
