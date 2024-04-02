@@ -20,7 +20,7 @@ This prank website is created using HTML, CSS, and JavaScript, along with Google
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apps%20Script-Apps%20Script-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SweetAlert-💖-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SweetAlert-🍩-blue?style=for-the-badge"/>
 </p>
 
 ## How It Works
